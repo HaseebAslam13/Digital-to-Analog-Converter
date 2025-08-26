@@ -9,5 +9,10 @@ This repository contains the design, simulation, and physical implementation of 
 ## Simulated Output
 ![Simulated Output Screenshot](https://github.com/user-attachments/assets/8c179186-2e63-4294-935b-5e38a9b9d6a3)
 
-## View Full Work
-For detailed results and the actual output of the project, please refer to the PDF Document.
+## Circuit Design
+<img width="824" height="467" alt="image" src="https://github.com/user-attachments/assets/16e3ce1b-7d2f-456c-b83d-b1cd94335a11" />
+
+## Actual Output
+<img width="761" height="352" alt="Screenshot 2025-08-26 004540" src="https://github.com/user-attachments/assets/d53dda7e-c90f-43a8-ba9b-4ac811606244" />
+
+
